@@ -19,6 +19,12 @@
 - Streamlit
 - Pandas
 
+## Access the App
+You can directly use the **Roommate Compatibility Checker** by visiting the following link:
+
+[**Home Sweet Home – Roommate Compatibility Checker**](https://compatibility-scorer-edhqua4ztd2zuycxc4mjex.streamlit.app/)
+
+
 ## Installation
 
 ### 1. Clone the repository:

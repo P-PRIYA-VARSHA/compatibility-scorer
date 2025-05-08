@@ -18,7 +18,8 @@
 - Python 3.x
 - Streamlit
 - Pandas
-
+## Website Interface with Sample outputs
+![Alt text](Website Interface.png)
 ## Access the App
 You can directly use the **Roommate Compatibility Checker** by visiting the following link:
 

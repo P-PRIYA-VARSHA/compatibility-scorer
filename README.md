@@ -19,7 +19,8 @@
 - Streamlit
 - Pandas
 ## Website Interface with Sample outputs
-![Alt text](Website Interface.png)
+![Alt text](Website%20Interface.png)
+![Alt text](CSV%20File%20Storing%20data.png)
 ## Access the App
 You can directly use the **Roommate Compatibility Checker** by visiting the following link:
 
